@@ -1,0 +1,2 @@
+# WooSMSNotifizer
+WooCommerce SMS Alert
